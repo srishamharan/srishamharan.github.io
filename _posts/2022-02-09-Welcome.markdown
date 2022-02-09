@@ -1,7 +1,7 @@
 ---
-title: About
-icon: fas fa-info-circle
-order: 4
+title: Welcome!
+comments: false
+pin: true
 ---
 
 Hey there! I'm Sri **Sham** Haran
@@ -10,3 +10,10 @@ I am a student currently pursuing a Bacholor of Science in Computer Science in R
 
 [E-Mail: srisham@srisham.me](mailto:srisham@srisham.me)<br />
 [LinkedIn](https://www.linkedin.com/in/sri-raja/)
+
+Welcome to my portfolio site! This site is currently being worked. All my projects and articles will be posted here soon!
+
+{% comment %} 
+    For future:
+    This site contains some of my [projects](/tags/project) and [articles](/tags/article) that I have written!
+{% endcomment %}
