@@ -2,9 +2,8 @@
 layout: page
 title: Elements
 permalink: /elements/
-image: '/images/17.jpg'
 ---
-
+<!-- 
 A paragraph looks like this — Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures. Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies.
 
 ***
@@ -13,7 +12,7 @@ A paragraph looks like this — Globally incubate standards compliant channels b
 
 # H1 Default styles for headings
 ## H2 Default styles for headings
-### H3 Default styles for headings
+### H3 Default styles for` headings
 #### H4 Default styles for headings
 ##### H5 Default styles for headings
 ###### H6 Default styles for headings
@@ -113,7 +112,7 @@ li {
 ![Beach]({{site.baseurl}}/images/12-1.jpg#wide)
 *Photo by [Alexandra Gorn](https://unsplash.com/photos/1mPkRa-qM_U) on [Unsplash](https://unsplash.com/)*
 
-<div class="gallery-box">
+<!-- <div class="gallery-box">
   <div class="gallery">
     <img src="/images/100.jpg" loading="lazy">
     <img src="/images/101.jpg" loading="lazy">
@@ -123,12 +122,12 @@ li {
     <img src="/images/105.jpg" loading="lazy">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+</div> -->
 
-![Sea]({{site.baseurl}}/images/18.jpg)
-*Photo by [Spacejoy](https://unsplash.com/photos/Nq1OU1w37bU) on [Unsplash](https://unsplash.com/)*
+<!-- ![Sea]({{site.baseurl}}/images/18.jpg)
+*Photo by [Spacejoy](https://unsplash.com/photos/Nq1OU1w37bU) on [Unsplash](https://unsplash.com/)* -->
 
-***
+<!-- ***
 
 ## Youtube Embed
 
@@ -140,4 +139,4 @@ li {
 
 <p><iframe src="https://player.vimeo.com/video/147264547?title=0&byline=0" loading="lazy" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
 
-***
+*** -->

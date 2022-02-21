@@ -1,29 +1,56 @@
-name: 'Automatic build'
+name: Jekyll Deploy
+
 on:
   push:
     branches:
-      - main
-    paths-ignore:
-      - .gitignore
-      - README.md
-      - LICENSE
+      - master
 
 jobs:
-  continuous-delivery:
-
+  build_and_deploy:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
+      - name: GitHub Checkout
+        uses: actions/checkout@v1
+      - name: Bundler Cache
+        uses: actions/cache@v1
         with:
-          fetch-depth: 0  # for posts's lastmod
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+      - name: Build & Deploy to GitHub Pages
+        uses: joshlarsen/jekyll4-deploy-gh-pages@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
+          GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
 
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: 2.7
-          bundler-cache: true
+# name: 'Automatic build'
+# on:
+#   push:
+#     branches:
+#       - main
+#     paths-ignore:
+#       - .gitignore
+#       - README.md
+#       - LICENSE
 
-      - name: Deploy
-        run: bash tools/deploy.sh
+# jobs:
+#   continuous-delivery:
+
+#     runs-on: ubuntu-latest
+
+#     steps:
+#       - name: Checkout
+#         uses: actions/checkout@v2
+#         with:
+#           fetch-depth: 0  # for posts's lastmod
+
+#       - name: Setup Ruby
+#         uses: ruby/setup-ruby@v1
+#         with:
+#           ruby-version: 2.7
+#           bundler-cache: true
+
+#       - name: Deploy
+#         run: bash tools/deploy.sh
