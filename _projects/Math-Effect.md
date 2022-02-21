@@ -2,8 +2,10 @@
 title: Math Effect
 subtitle: NYP - Blended Learning Project
 image: '/images/MathEffect/MathEffect_1.png'
+date: 2018-02-13
 ---
 
+## About
 Math Effect is an educational game that aims to teach math topics in the form of minigames. Math Effect is developed with simplicity and learning in mind. The
 minigames can relay its core concepts to its players through mechanics and level design.
 
@@ -20,6 +22,7 @@ minigames can relay its core concepts to its players through mechanics and level
 
 The project was made using the Unity3D engine.
 
+## Tasks
 I personally worked on the following features: 
 * Shader VFX for the game (HLSL)
 * Set Theory Mini Game
@@ -27,4 +30,5 @@ I personally worked on the following features:
 * Leaderboard interface & implementation
 * Achievements inteface & implementation
 
+## Trailer
 <p><iframe width="1280" height="720" src="https://www.youtube.com/embed/vOFecxMGlII" title="YouTube video player" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
