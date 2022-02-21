@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Sri Sham Haran - Portfolio
-logo: #'/images/Logo.png'
+logo: '/images/Logo.png'
 description: This is the Portfolio site of Sri Sham Haran. XR Solutions Engineer | Software Engineer
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
