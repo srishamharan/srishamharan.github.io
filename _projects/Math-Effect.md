@@ -32,4 +32,4 @@ I personally worked on the following features:
 * Achievements inteface & implementation
 
 ## Trailer
-<p><iframe width="1280" height="720" src="https://www.youtube.com/embed/vOFecxMGlII" title="YouTube video player" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p><iframe width="1280" height="720" loading="lazy" src="https://www.youtube.com/embed/vOFecxMGlII" title="YouTube video player" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>

@@ -31,4 +31,4 @@ Project Made Using Unity3D
 * UI (In Game & Menu)
 
 ## Trailer
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/PBS2rvW0Jwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p><iframe width="560" height="315" loading="lazy" src="https://www.youtube.com/embed/PBS2rvW0Jwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>

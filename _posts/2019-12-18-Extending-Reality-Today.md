@@ -10,7 +10,7 @@ tags:   [XR,MR,VR,AR,Extended Reality,Mixed Reality,Virtual Reality,Augmented Re
 ### Visions of the future
 Back in 2016, Pokémon GO took the world by storm and popularized a medium that the masses were not familiar with. I myself enjoyed this Augmented Reality(AR) game based off one of the most popular franchises in the world and within me brewed these questions of how far we could bring Extended Reality(XR) into our lives; seeing it being used not only in the field of entertainment, but also as part of our daily lives.
 
-<iframe width="744" height="419" src="https://www.youtube.com/embed/YJg02ivYzSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<iframe width="744" height="419" loading="lazy" src="https://www.youtube.com/embed/YJg02ivYzSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
 
 [Keiichi Matsuda](http://km.cx/) depicted in his video titled "HYPER-REALITY" a rather bleak image of an augmented world. It was saturated with media content and advertisements harassing the user, but it also showed what could be of our future. Curated advertisements catered to our needs and wants, holographic face to face phone calls, visual guides seamlessly immersed into our world and a lot more. Each time I watch his video I notice more and more, most of which I would love to see in the future.
 
@@ -41,7 +41,7 @@ creatures known as Pokémon from the popular franchise Pokémon are
 overlaid on our world providing their players with a new view of their
 world; one filled with these digital creatures.
 
-<iframe width="744" height="419" src="https://www.youtube.com/embed/K6x44v8prFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<iframe width="744" height="419" loading="lazy" src="https://www.youtube.com/embed/K6x44v8prFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
 
 We see facial overlaying being used in applications that we are so
 familiar with; Snapchat and Instagram.
@@ -51,7 +51,7 @@ took their game up one level by introducing World Lenses, in which the
 user would be able to place 3D virtual objects in the real world and
 even have the joy of experience new lenses daily.
 
-<iframe width="744" height="419" src="https://www.youtube.com/embed/ttdPqly4OF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<iframe width="744" height="419" loading="lazy" src="https://www.youtube.com/embed/ttdPqly4OF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
 
 AR on our mobile phones today are no longer just overlaying virtual
 objects onto the real world. With advancements made on development kits
@@ -70,20 +70,20 @@ publish them to be used for Facebook and Instagram stories.
 AR is not used only used for entertainment but is used in other areas
 such as marketing and education.
 
-<iframe width="744" height="419" src="https://www.youtube.com/embed/UmJriqzDUTo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<iframe width="744" height="419" loading="lazy" src="https://www.youtube.com/embed/UmJriqzDUTo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
 
 [Wanna Kicks](https://apps.apple.com/app/id1444049305) offers users a
 new shopping experience, allowing them to instantly try on various
 footwear and purchase it after. Gone are the days where you would regret
 buying shoes and end up selling them.
 
-<iframe width="744" height="419" src="https://www.youtube.com/embed/PGByvh25uE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<iframe width="744" height="419" loading="lazy" src="https://www.youtube.com/embed/PGByvh25uE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
 
 BK Brazil ran a promo campaign for their app. Users could point their
 phone at their competitor\'s ads and \"burn\" them through the magic of
 augmented reality and be rewarded with a free Whopper.
 
-<iframe width="744" height="419" src="https://www.youtube.com/embed/2kpFr0XFgFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<iframe width="744" height="419" loading="lazy" src="https://www.youtube.com/embed/2kpFr0XFgFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
 
 [DAQRI](https://daqri.com/)\'s Elements 4D aims to act as a chemistry
 study aid. Users can scan cubes with different elements on each face and
@@ -106,7 +106,7 @@ putting on a headset.
 With the abundance of VR headsets available to us today comes the many
 experiences developed for our enjoyment.
 
-<iframe width="744" height="419" src="https://www.youtube.com/embed/VI-BUVJBApY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<iframe width="744" height="419" loading="lazy" src="https://www.youtube.com/embed/VI-BUVJBApY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
 
 Ever wanted to commandeer the U.S.S. Aegis from the beloved Star Trek
 universe? Or perhaps you would like to be an engineer on-board the U.S.S
@@ -115,7 +115,7 @@ game places the player in the U.S.S Aegis as an officer of the
 federation, leaving you to an unexplored sector of space to experience
 brave adventures and discovering wonders kept secret by space itself.
 
-<iframe width="744" height="419" src="https://www.youtube.com/embed/lzbBT6ZQm5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<iframe width="744" height="419" loading="lazy" src="https://www.youtube.com/embed/lzbBT6ZQm5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
 
 Today we have a new transformative means of surgical training and
 assessment. In a constantly expanding world with rising populations, it
@@ -140,14 +140,14 @@ with the real world.
 
 To better explain this blend\...
 
-<iframe width="744" height="419" src="https://www.youtube.com/embed/_xpI0JosYUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<iframe width="744" height="419" loading="lazy" src="https://www.youtube.com/embed/_xpI0JosYUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
 
 I am not going to lie; MR is my favourite medium because it aligns with
 my visions of the future. The use of such technologies in
 non-entertainment fields such as the medical fields and the field of
 engineering.
 
-<iframe width="744" height="419" src="https://www.youtube.com/embed/l2NnOCLexOE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<iframe width="744" height="419" loading="lazy" src="https://www.youtube.com/embed/l2NnOCLexOE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
 
 Cleveland Clinic and Microsoft collaborates to explore and demonstrate
 how data and models can be aligned to what surgeons see providing a more
@@ -156,7 +156,7 @@ most accurate now, due to limitations of technology today, but in the
 future, we would indeed see actual surgeries itself assisted with
 similar concepts.
 
-<iframe width="744" height="419" src="https://www.youtube.com/embed/y1UQ5NXXxiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<iframe width="744" height="419" loading="lazy" src="https://www.youtube.com/embed/y1UQ5NXXxiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
 
 Trimble Connect; a platform available on Microsoft\'s Hololens allows
 people involved on various aspects of construction projects to work
@@ -166,7 +166,7 @@ dynamic way to collaborate.
 
 ### Baby steps towards the future
 
-<iframe width="744" height="419" src="https://www.youtube.com/embed/8FlvL2yLmWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<iframe width="744" height="419" loading="lazy" src="https://www.youtube.com/embed/8FlvL2yLmWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
 
 As we focus ahead on what lies on the future, [Focals by
 North](https://www.bynorth.com/focals) offers to the world \"stylish
@@ -182,4 +182,4 @@ As I conclude this, I would like to invite anyone reading this to join
 me in envisioning what our future could be as such technologies continue
 to improve, develop and immerse itself into our lives.
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6613069058042630144" height="470" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe><br />
+<iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6613069058042630144" height="470" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe><br />

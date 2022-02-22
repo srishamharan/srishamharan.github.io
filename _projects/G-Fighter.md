@@ -40,4 +40,4 @@ G-Fighter is a side-scrolling shoot'em up PC game designed to bring back the nos
 * UI/UX
 
 ## Trailer
-<p><iframe width="470" height="376" src="https://www.youtube.com/embed/-v_X703iHF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p><iframe width="470" height="376" loading="lazy" src="https://www.youtube.com/embed/-v_X703iHF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
