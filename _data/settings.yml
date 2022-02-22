@@ -144,7 +144,7 @@ footer_menu__settings:
 #-------------------------------
 # Contact Settings
 contact:
-  email: srisham@srisham.me # Add your form_id
+  email: # Add your form_id
   description: Contact me! # Add a description of your form
 
 # NOTE
