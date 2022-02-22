@@ -3,6 +3,7 @@ title: Blind Faith
 subtitle: NYP - Studio Project
 image: '/images/BlindFaith/BlindFaith.jpg'
 date: 2017-10-23
+description: Blind Faith is a top down 2D tile maze online multiplayer co-op game
 ---
 
 ## About

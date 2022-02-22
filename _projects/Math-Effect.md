@@ -3,6 +3,7 @@ title: Math Effect
 subtitle: NYP - Blended Learning Project
 image: '/images/MathEffect/MathEffect_1.png'
 date: 2018-02-13
+description: Math Effect is an educational game that aims to teach math topics in the form of minigames.
 ---
 
 ## About
