@@ -10,7 +10,7 @@ permalink: /contact/
       <p class="contact-description">{{site.data.settings.contact.description}}</p>
     {% endif %}
   </div>
-  <form class="form" action="https://getform.io/f/97c33d29-114c-4efa-9258-42c145ae70b2" method="post">
+  <form class="form" action="https://getform.io/f/97c33d29-114c-4efa-9258-42c145ae70b2" method="post" enctype="multipart/form-data" target="_blank">
     <div class="form__group">
       <label class="form__label screen-reader-text" for="form-name">Your Name</label>
       <input class="form__input" id="form-name" type="text" name="name" placeholder="Name" required>
@@ -23,6 +23,7 @@ permalink: /contact/
       <label class="form__label screen-reader-text" for="form-text">Your Message</label>
       <textarea class="form__input" id="form-text" name="message" rows="10" placeholder="Message" required></textarea>
     </div>
+    <div class="g-recaptcha" data-sitekey="6LewWJQeAAAAANq6ile3eaEPiFIJamg59yXFHRBY"></div>
     <div class="form__group">
       <button class="button button--primary" type="submit">Send Message</button>
     </div>
