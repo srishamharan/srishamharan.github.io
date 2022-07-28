@@ -9,6 +9,7 @@ description: G-Fighter is a side-scrolling shoot'em up PC game designed to bring
 ## About
 G-Fighter is a side-scrolling shoot'em up PC game designed to bring back the nostalgic feel of retro arcade shoot'em up games but with a modern twist to its look and feel. This game is intended for fans of classic shoot'em up games. The gameplay of G-Fighter would require the player to remain alert and observant to the shapes and colours of the projectiles that are approaching them.
 
+
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/GFighter/G-Fighter.png" loading="lazy">
