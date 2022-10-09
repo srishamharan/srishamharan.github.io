@@ -52,19 +52,19 @@
   }
 
   @media only screen and (max-width: $wide) {
-    height: 484px;
+    height: 320px;
   }
 
   @media only screen and (max-width: $desktop) {
-    height: 440px;
+    height: 290px;
   }
 
   @media only screen and (max-width: $tablet) {
-    height: 420px;
+    height: 280px;
   }
 
   @media only screen and (max-width: $mobile) {
-    height: 280px;
+    height: 186px;
   }
 }
 
