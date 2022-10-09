@@ -18,6 +18,8 @@ menu__settings:
       url: '/blog/'
     - title: 'Contact'
       url: '/contact/'
+    - title: 'Resume'
+      url: '/resume/'
     # - title: 'Pages'
     #   submenu:
     #   - url: '/about/'
