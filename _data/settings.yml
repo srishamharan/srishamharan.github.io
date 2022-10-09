@@ -39,6 +39,10 @@ social:
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/sri-raja/"}
 - {icon: "ion-logo-github", link: "https://github.com/srishamharan"}
 - {icon: "ion-logo-twitter", link: "https://twitter.com/IsMeSham"}
+<<<<<<< HEAD
+=======
+- {icon: "ion-paper", link: "/resume/SriShamHaran_Resume_2022.pdf"}
+>>>>>>> 175aae0 (fix resume icon)
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
