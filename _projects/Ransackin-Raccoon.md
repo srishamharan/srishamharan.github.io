@@ -12,9 +12,9 @@ Player “steal” food by throwing them out of a specific window to score them 
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/MetalDawn/RansackinRaccoon00.png" loading="lazy">
-    <img src="/images/MetalDawn/RansackinRaccoon01.png" loading="lazy">
-    <img src="/images/MetalDawn/RansackinRaccoon02.png" loading="lazy">
+    <img src="/images/RansackinRaccoon/RansackinRaccoon00.png" loading="lazy">
+    <img src="/images/RansackinRaccoon/RansackinRaccoon01.png" loading="lazy">
+    <img src="/images/RansackinRaccoon/RansackinRaccoon02.png" loading="lazy">
   </div>
 </div>
 
